@@ -1,7 +1,7 @@
 {
-    "name": "syntonic-spiral",
+    "name": "exhibition_chromatic_scales",
     "version": "0.0.1",
-    "description": "syntonic spiral",
+    "description": "exhibition chromatic scales",
     "main": "gulpfile.js",
     "scripts": {
         "start": "gulp",
