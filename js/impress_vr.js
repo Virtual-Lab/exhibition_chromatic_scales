@@ -133,6 +133,8 @@
         return " scale(" + s + ") ";
     };
 
+    var bigger = 2.5;
+
     // `perspective` builds a perspective transform string for given data.
     var perspective = function( p ) {
         return " perspective(" + p + "px) ";
@@ -201,15 +203,15 @@
 
     // Some default config values.
     var defaults = {
-        // width: 1024,
-        // height: 768,
+        width: 1500,
+        height: 1200,
         // maxScale: 1,
         // minScale: 0,
         // Changes are made Sir ...
         // So don't define a default width will make zooming possible
          
-        maxScale: 1,
-        minScale: 0,
+        maxScale: 12,
+        minScale: 0.4,
 
         perspective: 1000,
 
@@ -307,9 +309,9 @@
             var data = el.dataset,
                 step = {
                     translate: {
-                        x: toNumber( data.x ),
-                        y: toNumber( data.y ),
-                        z: toNumber( data.z )
+                        x: toNumber( data.x * bigger ),
+                        y: toNumber( data.y * bigger),
+                        z: toNumber( data.z * bigger)
                     },
                     rotate: {
                         x: toNumber( data.rotateX ),
