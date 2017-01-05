@@ -676,6 +676,9 @@
 
 // NAVIGATION EVENTS
 
+// RV: NAvigation Element in the menue:
+
+
 // As you can see this part is separate from the impress.js core code.
 // It's because these navigation actions only need what impress.js provides with
 // its simple API.
@@ -706,6 +709,8 @@
         // or anything. `impress:init` event data gives you everything you
         // need to control the presentation that was just initialized.
         var api = event.detail.api;
+        // var nav_li = document.getElementById("nav-l");
+        // var nav_re = document.getElementById("nav-l");
 
         // KEYBOARD NAVIGATION HANDLERS
 
@@ -778,7 +783,20 @@
                 // If it's a link to presentation step, target this step
                 if ( href && href[ 0 ] === "#" ) {
                     target = document.getElementById( href.slice( 1 ) );
+                };
+
+// _____________RV: If it's a navigator (links)
+                if ( href === "#links" ) {
+                    api.prev();
+                    //break;
+                };
+
+// _____________RV: If it's a navigator (right)
+                if ( href === "#rechts" ) {
+                    api.next();
+                    //break;
                 }
+
             }
 
             if ( api.goto( target ) ) {

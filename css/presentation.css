@@ -110,16 +110,22 @@ body {
     margin: 0px auto;
 }
 
+a.nav, a.nav:link, a.nav:visited, a.nav:hover, a.nav:active {
+    color: grey;
+    text-decoration: none;
+    }
+
 #map {
     position: absolute;
     float: left;
     margin: 0;
     padding: 0.5em 0.5em;
-    background-color: rgba(200, 200, 255, 0.2);
-    width: 8em;
-    height: 8em;
+    background-color: rgba(200, 200, 200, 0.2);
+    width: 6em;
+    height: 6em;
     display: block;
     z-index: 99;
+    line-height: 1.6em;
 }
 
 #sidemap {
@@ -134,6 +140,7 @@ body {
 .impress-enabled .step {
     margin: 0 auto;
     opacity: 0.3;
+    -webkit-transition: opacity 0.5s;
     transition: opacity 0.5s;
 }
 
@@ -333,7 +340,8 @@ a.svg {
     /*
         ... and position it below the bottom of the screen (relative to it's fixed position)
     */
-    transform:         translateY(400px);
+    -webkit-transform:         translateY(400px);
+            transform:         translateY(400px);
 
     /*
         Now let's imagine that the hint is visible and we want to fade it out and move out
@@ -345,7 +353,10 @@ a.svg {
 
         This way user will not see the hint moving down.
     */
+    -webkit-transition: opacity 1s, -webkit-transform 0.5s 0.5s;
+    transition: opacity 1s, -webkit-transform 0.5s 0.5s;
     transition: opacity 1s, transform 0.5s 0.5s;
+    transition: opacity 1s, transform 0.5s 0.5s, -webkit-transform 0.5s 0.5s;
 
 }
 
@@ -363,7 +374,8 @@ a.svg {
         position.
     */
     opacity: 1;
-    transform:         translateY(0px);
+    -webkit-transform:         translateY(0px);
+            transform:         translateY(0px);
 
     /*
         Now for fade in transition we have the oposite situation from the one
@@ -373,7 +385,10 @@ a.svg {
         into its correct position and after that we fade it in with opacity
         transition.
     */
+    -webkit-transition: opacity 1s, -webkit-transform 0.5s 0.5s;
+    transition: opacity 1s, -webkit-transform 0.5s 0.5s;
     transition: opacity 1s, transform 0.5s 0.5s;
+    transition: opacity 1s, transform 0.5s 0.5s, -webkit-transform 0.5s 0.5s;
 
 }
 
