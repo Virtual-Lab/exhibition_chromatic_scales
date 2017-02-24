@@ -210,7 +210,7 @@
         // Changes are made Sir ...
         // So don't define a default width will make zooming possible
          
-        maxScale: 12,
+        maxScale: 15,
         minScale: 0.4,
 
         perspective: 1000,

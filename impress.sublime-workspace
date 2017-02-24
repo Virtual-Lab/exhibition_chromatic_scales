@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"all",
+				"all-col"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"display",
+				"displayNotes"
+			],
+			[
+				"s",
+				"slider"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"Win",
+				"windowHeight"
+			],
+			[
+				"sel",
+				"selectedInput"
+			],
+			[
+				"sust",
+				"sustainLevel"
+			],
+			[
+				"create",
+				"createGain"
+			],
+			[
+				"crea",
+				"createGainNode"
+			],
+			[
+				"cre",
+				"createGain"
+			],
+			[
+				"fr",
+				"frequency"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"mast",
+				"masterCtl"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"ei",
+				"eightNoteTime"
+			],
+			[
+				"bu",
+				"bufferList"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"sour",
+				"source2"
+			],
+			[
+				"sou",
+				"source1"
+			],
+			[
+				"so",
+				"source2"
+			],
+			[
+				"buff",
+				"bufferList"
+			],
+			[
+				"c",
+				"createBufferSource"
+			],
+			[
+				"Audio",
+				"AudioContext"
+			],
+			[
+				"Au",
+				"AudioContext"
+			],
+			[
+				"context",
+				"contextClass"
+			],
+			[
+				"th",
+				"theBuffer"
+			],
+			[
+				"choo",
+				"chooseYear"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"years",
+				"yearsraw"
+			],
+			[
+				"max",
+				"max_name"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "impress.sublime-project",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 307.0,
+		"last_filter": "htm",
+		"selected_items":
+		[
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Au",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Repository"
+			],
+			[
+				"Auto",
+				"Autoprefix CSS"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"A",
+				"Autoprefix CSS"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rvogtenh/Sites/testsites/www/impress",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_chromatic_scales",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/css",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/js",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_presentation1_impress/css",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_presentation1_impress/js"
+	],
+	"file_history":
+	[
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_chromatic_scales/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_chromatic_scales/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_presentation1_impress/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_presentation1_impress/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_presentation1_impress/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_chromatic_scales/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/.gitignore",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/package.json",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_circular-pitchDiagrams/gulpfile.js",
+		"/Users/rvogtenh/Sites/testsites/www/impress/_exhibition_chromatic_scales/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/performances/vilab_play_descartes/pages/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/performances/vilab_play_descartes/pages/js/synth_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/scss/presentation.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_exhibition_chromatic_scales/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/scss/app.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/exhibition_chromatic_scales_dev/",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_exhibition_chromatic_scales/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/zarlino_1.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/bower_components/foundation-sites/scss/grid/_position.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/index_06.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/index_04.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/index_03.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_exhibition_chromatic_scales/index_05.html",
+		"/Users/rvogtenh/switchdrive/privat_SoCoSpa/_SoCoSpa_Presentationen/chromatic scales/pdfs/exhibition_chromaticScales 21.pdf",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel1.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_15.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/index_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/images/jpg_400/1498_heritius_ub_muennchen_4_cod_ms_752_fol_7r_detail_klein200.jpg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_14.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_7.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_9.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_11.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress_2/titel_12.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress Kopie/titel_layout3.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation1_impress/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress Kopie/titel_layout1.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress Kopie/titel_layout2.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation1_impress/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress Kopie/titelseite.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation1_impress/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation1_impress/overview.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/images/Titel.svg",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/css/presentation.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/overview.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/js/impress_vr.js",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation2_impress/images/Folie01.png",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_presentation1_impress/index_2.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/impress/_impress_presentation1/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/archiv.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/archiv_sets.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/dates.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/sience.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/team.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/technology.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/exhibitions.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/timeline.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/vilab_editor.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/vilab_examples.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/_scsp_01.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/vilab_start.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_oldSite/elements/nav_old.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_oldSite/index.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/css/scsp.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/doc_sience.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/app.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/.gitignore",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/scss/_settings.scss",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/css/scsp_01.css",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/dates.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_site/dates.php",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_layout/about.html",
+		"/Users/rvogtenh/Sites/testsites/www/SoCoSpa/_socospa_foundation_1/js/vendor/foundation.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/head.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/header.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/nav.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/index.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_site/elements/nav_test.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_layout/elements/header.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_socospa_layout/elements/footer.php",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_synthjs/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_webeditoren/ace-builds/editor.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/js/editor.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/index_02.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/index_01.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_web_editor1/README.md",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/_synthjs/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthjs/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/newton_circle/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthonic-spiral/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_editor1 Kopie/ace_editor1.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_diagram_synthonic_circle_01/js/sketch_05.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/vilab_diagram_synthonic_circle_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthonic-circle/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/descartes_hexachords/index.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab/synthjs/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/css/styles.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/js/sketch_05.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/js/sketch_03.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_04_test2.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_04_test1.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_synthonic_circle_01/diagram_synthonicgrid_05.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram_newton_circle_01/diagram_daniel3.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_synthjs/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/synth.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/js/sketch_15.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/example_15.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/index_04.html",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/css/styles.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_webaudio_tutorials_01/js/setaudio.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/sketch_04.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_diagram1_descartes_hexachords_01/js/sketch_02.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/css/editor.css",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/js/editor.js",
+		"/Users/rvogtenh/Sites/testsites/www/vilab_editor1/ace_editor2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"230px",
+			"250px",
+			"width: 200px",
+			"1739_Euler__Tentamen_147_ChromaticScale_klein200",
+			"</image>",
+			" </image>",
+			"image",
+			"width:",
+			"absolute",
+			"200/",
+			"1684_anonymous__themusicallcompass_herissone_2000_musictheory_085_klein200dkl",
+			";\">",
+			"\">",
+			"<image ",
+			"image",
+			"data-x=\"6000\"",
+			"data-x=\"4000\"",
+			"data-x=\"2000\"",
+			"ata-x=\"-2000\"",
+			"ata-x=\"-4000\"",
+			"data-x=\"-4000\"",
+			"data-x=\"-6000\"",
+			"data-y=\"2000\"",
+			"data-y=\"-2000\"",
+			"data-scale=\"0.5\"",
+			"data-scale=\"1\"",
+			"data-scale=\"0.5\"",
+			"1650_descartes__hexachords__35_BnF_klein200dkl",
+			";\">",
+			"\">",
+			"</image>",
+			"image ",
+			"image src",
+			"image",
+			"1562_zarlino_institutioni_harmoniche_0036_p_025_senario_Circle",
+			"1588_zarlino_SopplimentiMusicali_lib_IV_209",
+			"beekman_chromatics",
+			"1614_beekman_JIB_I_Fol_14_r_stevin_chromaticScale",
+			"4",
+			"1614_beekman_JIB_I_Fol_14_r_stevin_chromaticScale",
+			"1680_PhiloMus_A_B__Synopsis_of_Vocal_Musick_1",
+			"1624_fludd_uch_1_0462_Tract_II_Part_II_Lib_VI_232_transpositionWheel",
+			"1676_mace_thomas__MusicalInfinity_SpiralPoem_gouk_153_4_48",
+			"1705_Salmon_TheTheoryOfMusickReduced_2041_RoyalSocietyOfLondon_SyntonicDiatonicAndChromaticScale",
+			"1917_oettingen__Grundlagen_der_Musikwissenschaft_176_chi53",
+			"1665_newton__manus_230_109r_detail_01",
+			"1636_mersenne_HarmUniv_TraitezDesConsDiss_Livre_II_DesDissonances_136__chromaticCircleKappa12",
+			"1665_newton__manus_230_109r_detail_01",
+			"1620_buergi_jost__logCircle_colored",
+			"1636_mersenne_HarmUniv_TraitezDesConsDiss_Livre_II_DesDissonances_136__chromaticCircleKappa12",
+			"1620_buergi_jost__logCircle_colored",
+			"1653_descartes__consonanceCircle__en_017",
+			"380px",
+			"350px",
+			"7_descartes_diatonicCircle_1",
+			"6_descartes_diatonicCircle_1",
+			"5_descartes_diatonicCircle_1",
+			"4_descartes_diatonicCircle_1",
+			"3_descartes_diatonicCircle_1",
+			"2_descartes_diatonicCircle_1",
+			"1_descartes_diatonicCircle_1",
+			"0_descartes_diatonicCircle_1",
+			"300px",
+			"330px",
+			"310px",
+			"1653_descartes__hexachords_compendium__en_035",
+			"1653_descartes__diatonicScale_2_compendium__en_032",
+			"1653_descartes__diatonicScale_1__en_032",
+			"1653_descartes__consonanceCircle__en_017",
+			"1650_descartes__hexachords__35_BnF",
+			"1650_descartes__diatonicScale_2__32_BnF",
+			"1650_descartes__diatonicScale_1__32_BnF",
+			"1650_descartes__consonanceCircle__19_BnF",
+			"1653_descartes__consonanceCircle__en_017",
+			"1665_newton__manus_229_108v_detail_01",
+			"1665_newton__manus_223_105v_detail_01",
+			"1636_mersenne_HarmUniv_TraitezDesConsDiss_Livre_II_DesDissonances_136__chromaticCircleKappa12",
+			"1640_descartes__hexachords__MS_Groningen",
+			"1640_descartes__diatonicScale_2__MS_Groningen",
+			"1640_descartes__diatonicScale_1__MS_Groningen",
+			"1653_descartes__diatonicScale_1__en_032",
+			"1640_descartes__consonanceCircle___MS_Groningen",
+			"310px",
+			"1635_descartes__hexachords__MS_Leiden_ublwhs_hug_29_a_f048v",
+			"1635_descartes__diatonicscale_2__MS_Leiden_ublwhs_hug_29_a_f047v",
+			"1635_descartes__diatonicScale_1__MS_Leiden_ublwhs_hug_29_a_f047v",
+			"1635_descartes__consonanceCircle__MS_Leiden_ublwhs_hug_29_a_f042v",
+			"1628_beeckman__diatonicScale_2__MS_Middelburg_171r",
+			"1650_descartes__diatonicScale_2__32_BnF",
+			"1628_beeckman__hexachords__MS_Middelburg_172r",
+			"1628_beeckman__diatonicScale_1__MS_Middelburg_171_r",
+			"1628_beeckman__consonanceCircle__MS_Middelburg_167r",
+			"1635_descartes__hexachords__MS_Leiden_ublwhs_hug_29_a_f048v",
+			"1635_descartes__diatonicscale_2__MS_Leiden_ublwhs_hug_29_a_f047v",
+			"1635_descartes__diatonicScale_1__MS_Leiden_ublwhs_hug_29_a_f047v",
+			"1635_descartes__consonanceCircle__MS_Leiden_ublwhs_hug_29_a_f042v",
+			"320px",
+			"330px",
+			"width: auto",
+			"height",
+			"1562_zarlino_institutioni_harmoniche_0049_p_038",
+			"1562_zarlino_institutioni_harmoniche_0050_p_039",
+			"1562_zarlino_institutioni_harmoniche_0045_p_034_mulipla_Circle",
+			"1562_zarlino_institutioni_harmoniche_0025_p_014",
+			"1562_zarlino_institutioni_harmoniche_0047_p_036_superparticolari_Circle",
+			"1562_zarlino_institutioni_harmoniche_0036_p_025_senario_Circle",
+			"1624_fludd_uch_1_0462_Tract_II_Part_II_Lib_VI_232_transpositionWheel_",
+			"1492_Duran_Domingo_Marcos__Lux_Bella_p_10_The_Musical_Wheel__3octaves",
+			"1562_zarlino_institutioni_harmoniche_0025_p_014",
+			"1577_Salinas_De_musica_230_TriangleOverChromaticScale",
+			"”",
+			"“",
+			"1562_zarlino_institutioni_harmoniche_0152_p_141_keyboard_dividedKeys",
+			"300px",
+			"auto",
+			"1562_zarlino_institutioni_harmoniche_0045_p_034_mulipla_Circle",
+			"1562_zarlino_institutioni_harmoniche_0037_p_026_numeriSonori",
+			"1562_zarlino_institutioni_harmoniche_0036_p_025_senario_Circle",
+			"300px",
+			"auto",
+			"height: 300px",
+			"1562_zarlino_institutioni_harmoniche_0037_p_026_numeriSonori",
+			"1529_fogliano_Musica_theorica_fol_38r_tuningSyntonicChromaticScale",
+			"1492_Duran_Domingo_Marcos__Lux_Bella_p_10_The_Musical_Wheel__3octaves",
+			"1529_fogliano_Musica_theorica_fol_34v_syntonicChromaticAndDiatonicScale",
+			"center",
+			"1498_heritius_ub_muennchen_4_cod_ms_752_fol_7r_detail",
+			".public"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "impress.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "impress.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"responsiv_book/kap09/10_multilevel-mitJS/html/navitest-04.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/testsites/www/vilab/vilab.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
